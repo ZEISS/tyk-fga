@@ -20,7 +20,7 @@ dist
 # vendor/
 
 ### Go Patch ###
-/vendor/
+# /vendor/
 /Godeps/
 
 ### Intellij ###
