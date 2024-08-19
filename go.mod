@@ -9,7 +9,7 @@ require (
 	github.com/TykTechnologies/tyk v1.9.2-0.20240812112420-b8f10fb98899
 	github.com/golang/mock v1.6.0
 	github.com/golangci/golangci-lint v1.60.1
-	mvdan.cc/gofumpt v0.6.0
+	mvdan.cc/gofumpt v0.7.0
 )
 
 require (
